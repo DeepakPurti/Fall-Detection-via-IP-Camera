@@ -1,10 +1,7 @@
 function [] = sample()
 
-% finding path where all files in the program are stored
-%[path,name,ext] = fileparts(mfilename('C:\Users\Lenovo\Desktop\Fall-Detection-master\videos'));
-
 % reading the video
-cam = ipcam('http://192.168.43.1:8080/video');
+cam = ipcam('http://192.168.43.1:8080/video');  % use IP Camera app in Android
 %while true
     %picture=camera.snapshot;
    % image(picture);
