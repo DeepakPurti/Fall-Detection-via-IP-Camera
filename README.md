@@ -1,5 +1,5 @@
 ## Introduction
-Human Fall Detection via Webcam (and E-mail Alert)
+Human Fall Detection via IP Camera in Smart phone, with E-mail Alert to user
 
 ## Requirements
 1. MATLAB - R2019b or higher
@@ -9,7 +9,7 @@ Human Fall Detection via Webcam (and E-mail Alert)
    <br>c. Computer Vision Toolbox
 
 ## Execution
-Run 'falldetection_via_webcam.m' .
+Run 'falldetection_via_ipcamera.m' .
 This would read from the webcam as long as the program runs, and detect the falling action of a human in the feed.
 An e-mail alert would be send to user after fall detection.
 
