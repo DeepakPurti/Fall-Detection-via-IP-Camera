@@ -10,7 +10,7 @@ Human Fall Detection via IP Camera in Smart phone, with E-mail Alert to user
 
 ## Execution
 Run 'falldetection_via_ipcamera.m' .
-This would read from the webcam as long as the program runs, and detect the falling action of a human in the feed.
+This would read from the IP camera app in the smartphone, and detect the falling action of a human from the feed.
 An e-mail alert would be send to user after fall detection.
 
 ## Modification
