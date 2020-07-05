@@ -2,12 +2,6 @@ function [] = sample()
 
 % reading the video
 cam = ipcam('http://192.168.43.1:8080/video');  % use IP Camera app in Android
-%while true
-    %picture=camera.snapshot;
-   % image(picture);
-    %drawnow;
-%end
-%vid = vision.VideoFileReader('video.mp4');
 
 % initializing foreground and blob detectors
 detector = vision.ForegroundDetector(...
