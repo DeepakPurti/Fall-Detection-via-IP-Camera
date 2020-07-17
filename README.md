@@ -7,6 +7,7 @@ Human Fall Detection via IP Camera in Smart phone, with E-mail Alert to user
    <br>a. Image Acquisition Toolbox
    <br>b. Image Processing Toolbox
    <br>c. Computer Vision Toolbox
+3. Smartphone with IP Camera application
 
 ## Execution
 Run 'falldetection_via_ipcamera.m' .
